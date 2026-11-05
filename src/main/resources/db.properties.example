@@ -1,0 +1,5 @@
+# MySQL Database Configuration
+
+db.url=jdbc:mysql://localhost:3306/online_examination_system
+db.username=your_mysql_username
+db.password=your_mysql_password
